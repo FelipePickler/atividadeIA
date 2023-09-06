@@ -1,0 +1,19 @@
+body {
+    background-color: #111;
+    color: #fff;
+}
+
+.futuristic-text {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    color: #00a3cc;
+}
+
+.futuristic-button {
+    background-color: #00a3cc;
+    border: none;
+}
+
+.futuristic-button:hover {
+    background-color: #007a99;
+}
